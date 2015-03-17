@@ -1,0 +1,7 @@
+{
+  "name": "mcms-node-new-ngroute-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "*"
+  }
+}
