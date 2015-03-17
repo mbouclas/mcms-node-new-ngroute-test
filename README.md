@@ -1,0 +1,1 @@
+run npm install, then bower install, go to localhost:3000
